@@ -86,7 +86,8 @@ Help students and marketers gain a solid foundation in digital marketing concept
 
 📂 Project Files
 
-https://drive.google.com/drive/folders/14O8GIb_8-ldpHl9EuzPadALAY__MWv2o?usp=sharing – Main presentation file with definitions, examples, and tools.
+📊 [Download Project Presentation (PPTX)](https://drive.google.com/drive/folders/14O8GIb_8-ldpHl9EuzPadALAY__MWv2o?usp=sharing)  
+ – Main presentation file with definitions, examples, and tools.
 
 ✅ Conclusion
 
